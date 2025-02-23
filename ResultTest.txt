@@ -1,0 +1,14 @@
+10:36:21: Starting E:\02_myProjects\00_qtPet\QtUnitTests\09_UnitTestCalGradeGit\testgrade\debug\testgrade.exe...
+********* Start testing of Test01 *********
+Config: Using QtTest library 6.8.1, Qt 6.8.1 (x86_64-little_endian-llp64 shared (dynamic) release build; by Clang 17.0.3 (https://github.com/llvm/llvm-project.git 888437e1b60011b8a375dd30928ec925b448da57)), windows 11
+PASS   : Test01::initTestCase()
+PASS   : Test01::test_case_on_5()
+PASS   : Test01::test_case_on_4()
+PASS   : Test01::test_case_on_3()
+PASS   : Test01::test_case_on_2()
+PASS   : Test01::test_case_on_Err1()
+PASS   : Test01::test_case_on_Err2()
+PASS   : Test01::cleanupTestCase()
+Totals: 8 passed, 0 failed, 0 skipped, 0 blacklisted, 1ms
+********* Finished testing of Test01 *********
+10:36:26: E:\02_myProjects\00_qtPet\QtUnitTests\09_UnitTestCalGradeGit\testgrade\debug\testgrade.exe exited with code 0
